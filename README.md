@@ -1,6 +1,6 @@
 #Work Day Scheduler
 
-![Project Image]()
+![Project Image](https://github.com/jamtrip7/work-day-scheduler/blob/main/assets/screenshot/work-day-scheduler.png)
 
 > [Work Day Sheduler]()
 
