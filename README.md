@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/jamtrip7/work-day-scheduler/blob/main/assets/screenshot/work-day-scheduler.png)
 
-> [Work Day Sheduler]()
+> [Work Day Sheduler](https://jamtrip7.github.io/work-day-scheduler/)
 
 ---
 
